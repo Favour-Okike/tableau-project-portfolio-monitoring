@@ -24,62 +24,6 @@ View the interactive Tableau Public dashboard:
 
 ---
 
-## Dashboard Preview
-
-### Executive Portfolio Overview
-
-*Insert screenshot here*
-
-This dashboard provides a high-level portfolio view including:
-
-* Total Projects
-* Alerted Phases
-* Alert Rate
-* Average Cost Variance
-* Average Duration Variance
-* Average Deliverables Variance
-
----
-
-### Project Performance Analysis
-
-*Insert screenshot here*
-
-This dashboard compares project performance across project types and highlights:
-
-* Cost Variance by Project Type
-* Duration Variance by Project Type
-* Deliverables Variance by Project Type
-* Regional Alert Distribution
-
----
-
-### Regional Performance Monitoring
-
-*Insert screenshot here*
-
-This dashboard provides geographic analysis of project performance using:
-
-* Interactive World Map
-* Country-Level Monitoring
-* Project Type Filters
-* Phase Filters
-* Time Filters
-
----
-
-### Risk Prioritization Dashboard
-
-*Insert screenshot here*
-
-This dashboard identifies:
-
-* Top Risk Countries
-* Top Risk Projects
-* High-Risk Areas Requiring Management Attention
-
----
-
 ## Data Preparation
 
 Data preparation was performed using Tableau Prep.
@@ -169,13 +113,6 @@ Tableau final project prep flow.tfl
 ```text
 Tableau final project output data.csv
 ```
-
-### Project Documentation
-
-```text
-Tableau_Project_Summary_Guide.pdf
-```
-
 ---
 
 ## Skills Demonstrated
