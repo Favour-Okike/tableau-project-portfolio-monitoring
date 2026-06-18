@@ -20,7 +20,7 @@ Alert mechanisms were implemented to identify projects that deviate significantl
 
 View the interactive Tableau Public dashboard:
 
-🔗 https://public.tableau.com/app/profile/favour.okike/viz/Tableaufinalprojectworkbook/RegionalPerformanceMonitoring
+🔗 https://public.tableau.com/app/profile/favour.okike/viz/Tableaufinalprojectworkbook/ProjectPerformanceAnalysis
 
 ---
 
